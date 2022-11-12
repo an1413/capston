@@ -22,6 +22,9 @@ public class select_main extends AppCompatActivity {
                 Intent intent = new Intent(select_main.this, MainActivity2.class);
                 startActivity(intent);
             }
+
         });
+
+
     }
 }
